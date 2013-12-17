@@ -11,6 +11,7 @@ main()
    b=temp%b;              
   }   
   printf("%d %d\n",a,b);
+  printf("QAQ");
   }   
   return 0;     
 }
