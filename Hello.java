@@ -3,6 +3,7 @@ public class Hello {
     public static void say(String s) {
         int x = 10;
         System.out.print(s+x);
+		System.out.print("SAY!");
     }
     public static void main(String[] argv) {
         float y = 0;
